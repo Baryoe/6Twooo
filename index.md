@@ -1,15 +1,6 @@
 ## Welcome to 6two Pages -SAVI 780
 
-You can use the [editor on GitHub](https://github.com/Baryoe/6Twooo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-
-
 ### Location of African Immigrants residing in New York City between 2000 to 2010 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Description
 Over the past decades, millions of Africans have immigrated to the USA and thousands have settled in New York City. This map will attempt to interactively display African Immigrants living in New York City Boroughs. Utilizing demographics data provided by NYC Open Data, this map will make known the population of African Immigrants, household size, countries of origin, cultural affiliation, population in local school districts, in addition to association of said population with universities, commercial areas, airports, subway lines and school districts. The end goal is to develop a profile of the African immigrant group in NY City boroughs. 
@@ -23,18 +14,22 @@ I imagine a hypothetical situation, in which a recent college graduate from the 
 
 With more time I would have arranged the data such that all African Immigrant populations database would be searchable by country, ethnicity, language and year of immigration; Additionally, I would include skill sets or education of respective groups, social affiliations, religions, language translators, immigrant owned companies and services, NY City and federal social services.
 
-Problems encountered
+### Problems encountered
+
 Ensuring excel google table is clean enough to import into CARTO for analysis, and converting geoid configuration to match shapefiles. applying multiple layers as required to perform analysis and . Familiarity with GeoJSon data format.
 
-- List
+### Links of interest
+[Link](https://opendata.cityofnewyork.us/) NYc Open Data and ![Image](src)
 
-1. Numbered
-2. List
+[Link](http://www.pewresearch.org/fact-tank/2018/01/24/key-facts-about-black-immigrants-in-the-u-s/) Pew Research Organization 
 
-**Bold** and _Italic_ and `Code` text
+[Link](https://www.cfr.org/blog/where-african-immigrants-live-new-york-city) CFR Blog
 
-[Link](url) and ![Image](src)
+[Link](https://www.census.gov/) US Census
 ```
+
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
